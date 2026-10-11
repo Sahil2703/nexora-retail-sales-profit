@@ -84,7 +84,7 @@ The project uses **Nexora_Retail_sales_2014–2017**, the project-specific name 
 
 The analysis covers orders from 2014 through 2017. Since the data is recorded at the order-line level, one order can contain multiple records.
 
-## Author
+---
 
 Sahil Mallick   
 sahil27032001malik@gmail.com
