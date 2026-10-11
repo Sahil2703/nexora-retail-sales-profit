@@ -62,13 +62,13 @@ See [insights.md](insights.md) for the detailed findings, figures, and recommend
 nexora-retail-sales-profitability/
 ├── README.md
 ├── insights.md
-├── .gitignore
 ├── dashboard/
 │   └── Nexora_Retail_Sales_Profitability.xlsx
 ├── images/
 │   ├── dashboard_preview.png
 │   └── dashboard_walkthrough.gif
-└── data/  (optional)
+└── data/
+    └── sales_2014–2017
 ```
 
 ## How to Use
